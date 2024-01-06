@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=TCYnHcngPLc&list=PLP5MAKLy8lP9Ekc_hVSggV7ZkUzgW7IrH&index=1
+
+https://react.dev/
+
+https://vitejs.dev/guide/
+
+npm create vite@latest corsoreactmidali -- --template react
+
+http://localhost:5173/
+
+https://styled-components.com/
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
